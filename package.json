@@ -1,0 +1,19 @@
+{
+  "name": "promiseinvestigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogonzal/JavascriptPromiseInvestigation.git"
+  },
+  "author": "Jorge",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jogonzal/JavascriptPromiseInvestigation/issues"
+  },
+  "homepage": "https://github.com/jogonzal/JavascriptPromiseInvestigation#readme"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "promiseinvestigation",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Jorge"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/jogonzal/JavascriptPromiseInvestigation",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
